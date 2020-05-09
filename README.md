@@ -1,5 +1,5 @@
 
-# About the project: Web scraping using Python, BS4 and Selenium.
+# About: Web scraping using Python, BS4 and Selenium.
 
 Web scraping is data scraping done on web pages. In Python, the BeautifulSoup and Requests libraries
 are widely used for web scraping.
